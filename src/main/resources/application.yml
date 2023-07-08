@@ -1,8 +1,8 @@
 spring:
   datasource:
-    url: jdbc:mysql://localhost:3306/mydb
-    username: root
-    password: 1337H@ck3r
+    url: dummy
+    username: dummy
+    password: dummy
   servlet:
     multipart:
       max-file-size: 2MB
